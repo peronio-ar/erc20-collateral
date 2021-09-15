@@ -1,0 +1,14 @@
+{
+  "name": "erc20-collateral",
+  "version": "0.5",
+  "description": "ERC20 with collateral features",
+  "main": "index.js",
+  "author": "Agustin Kassis",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
