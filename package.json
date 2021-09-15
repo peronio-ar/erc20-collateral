@@ -1,7 +1,11 @@
 {
   "name": "erc20-collateral",
-  "version": "0.5",
+  "version": "0.5.1",
   "description": "ERC20 with collateral features",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peronio-ar/erc20-collateral.git"
+  },
   "main": "index.js",
   "author": "Agustin Kassis",
   "license": "MIT",
